@@ -1,0 +1,16 @@
+total 20
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 23 14:17 4k
+-rw-rw-r-- 2 ubuntu ubuntu    0 Sep 23 13:34 a
+-rw-rw-r-- 1 ubuntu ubuntu   73 Sep 23 14:08 a.txt
+lrwxrwxrwx 1 ubuntu ubuntu    1 Sep 23 14:34 a_lnk -> a
+-rw-rw-r-- 2 ubuntu ubuntu  108 Sep 23 14:10 ahard_lnk
+-rw-rw-r-- 2 ubuntu ubuntu  108 Sep 23 14:10 b
+-rw-rw-r-- 1 ubuntu ubuntu   30 Sep 23 13:47 b.txt
+-rw-rw-r-- 2 ubuntu ubuntu    0 Sep 23 14:39 c
+-rw-rw-r-- 2 ubuntu ubuntu    0 Sep 23 14:39 c_lnk
+drwxrwxr-x 2 ubuntu ubuntu 4096 Sep 23 13:49 dir1
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 23 13:34 e
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 23 13:34 f
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 23 13:34 g
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 23 13:34 h
+-rw-rw-r-- 2 ubuntu ubuntu    0 Sep 23 13:34 hard_lnk
